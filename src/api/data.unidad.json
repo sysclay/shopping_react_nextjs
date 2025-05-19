@@ -1,0 +1,8 @@
+[
+    { "id":1, "unidad":"Caja", "code":"CJA" },
+    { "id":2, "unidad":"Paquete", "code":"PAQ" },
+    { "id":3, "unidad":"Bolsa", "code":"BOL" },
+    { "id":4, "unidad":"Botella", "code":"BOT" },
+    { "id":5, "unidad":"Barra", "code":"BAR" },
+    { "id":6, "unidad":"Saché", "code":"SCH" }
+]

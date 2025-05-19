@@ -1,0 +1,9 @@
+[
+    { "id":1, "contenido":"BOL x 6", "id_unidad":3 },
+    { "id":2, "contenido":"PAQ x 15", "id_unidad":2 },
+    { "id":3, "contenido":"BOT 1000ml", "id_unidad":4 },
+    { "id":4, "contenido":"BOT 500ml", "id_unidad":4 },
+    { "id":5, "contenido":"CAJ x 1", "id_unidad":1 },
+    { "id":6, "contenido":"BAR x 1", "id_unidad":5 },
+    { "id":7, "contenido":"SCH x 1", "id_unidad":6 }
+]
